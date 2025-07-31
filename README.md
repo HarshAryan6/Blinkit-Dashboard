@@ -58,12 +58,6 @@ This project presents an interactive Power BI dashboard developed to analyze Bli
 
 ---
 
-## 📸 Dashboard Preview
-
-![Blinkit Power BI Dashboard](./Snapshot%20of%20the%20Dashboard.png)
-
----
-
 ## 🧠 Business Impact
 
 This dashboard enables:
@@ -81,3 +75,9 @@ This project is developed for academic and portfolio use only.
 All visual content and data are simulated and not sourced from Blinkit.
 
 ---
+
+## 📸 Dashboard Preview 
+
+![Blinkit Power BI Dashboard](./Snapshot%20of%20the%20Dashboard.png)
+
+
